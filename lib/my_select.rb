@@ -5,6 +5,7 @@ def my_select(collection)
     while i < collection.length
       new_arr << (yield array[i])
     end
-    new_arr
   end
+    new_arr
+  
 end
