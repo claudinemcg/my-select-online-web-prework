@@ -1,3 +1,4 @@
+=begin
 def my_select(collection)
   i = 0 
   new_arr = []
@@ -9,6 +10,7 @@ def my_select(collection)
     new_arr.compact
 
 end
+=end 
 
 def my_select(collection) 
   empty_arr = [] 
