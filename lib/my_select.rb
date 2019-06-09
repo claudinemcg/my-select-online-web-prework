@@ -8,6 +8,6 @@ def my_select(collection)
       i += 1
     end
   end
-    new_arr.compact
+    new_arr
 
 end
