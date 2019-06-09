@@ -6,6 +6,6 @@ def my_select(collection)
       new_arr << (yield array[i])
     end
   end
-    new_arr
+    new_arr.compact
   
 end
