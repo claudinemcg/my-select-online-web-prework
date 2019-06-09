@@ -8,7 +8,6 @@ def my_select(collection)
       end 
       i += 1
     end
-  end
     new_arr
 
 end
