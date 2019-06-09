@@ -6,4 +6,5 @@ def my_select(collection)
       new_arr << (yield array[i])
     end
     new_arr
+  end
 end
